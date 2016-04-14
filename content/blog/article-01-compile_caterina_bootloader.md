@@ -14,7 +14,7 @@ With your two VID/PID pairs in hand, lets compile the bootloader. I am going to 
 
 **Step 2:** Download LUFA-111009 and unpack it in the same directory as your caterina folder. By default on ubuntu, this will be `/usr/share/arduino/hardware/arduino/bootloaders`
 
-**Step 3:** This step is optional. Open Descriptors.c located at `/usr/share/arduino/hardware/arduino/bootloaders/caterina/Descriptors.c` . Navigate down to line 192 (`const USB_Descriptor_String_t ProductString`). Here you can add a product ID string for your PID. For example, I added:
+**Step 3:** This step is optional. Open `Descriptors.c` located at `/usr/share/arduino/hardware/arduino/bootloaders/caterina/Descriptors.c` . Navigate down to line 192 (`const USB_Descriptor_String_t ProductString`). Here you can add a product ID string for your PID. For example, I added:
 
     :::c
     #elif DEVICE_PID == 0x609C
