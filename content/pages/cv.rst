@@ -6,12 +6,12 @@ Steven Casagrande
 
 ..
 
-    Here is a summary of myself
+    Python lover, hardware builder, dabbler in DevOps-y things, and tester of all the things
 
 Skill Summary
 -------------
 
-**Technologies**: Python, LaTeX, C, SQL, Git, Docker, Vagrant, Travis, Jenkins
+**Technologies**: Python, C, SQL, Git, Docker, Vagrant, Travis, Jenkins, LaTeX
 
 **Hardware**: KiCad, LTSpice, PIC18F, Arduino, ARM
 
