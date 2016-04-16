@@ -6,7 +6,7 @@ Steven Casagrande
 
 ..
 
-    Python lover, hardware builder, dabbler in DevOps-y tech, and tester of all the things
+    Python lover, hardware builder, dabbler in DevOps tech, and tester of all the things
 
 Skill Summary
 -------------

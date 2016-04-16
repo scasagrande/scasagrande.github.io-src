@@ -46,7 +46,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 STATIC_PATHS = ['images', 'extra/CNAME']
-ABOUT_ME = "Python lover, hardware builder, dabbler in DevOps-y tech, and tester of all the things"
+ABOUT_ME = "Python lover, hardware builder, dabbler in DevOps tech, and tester of all the things"
 # AVATAR = "images/profile_picture.jpg"
 
 DISPLAY_PAGES_ON_MENU = False
