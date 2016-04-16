@@ -45,9 +45,12 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-# STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/CNAME']
 ABOUT_ME = "Python lover, hardware builder, dabbler in DevOps-y things, and tester of all the things"
 # AVATAR = "images/profile_picture.jpg"
 
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [('CV', '/cv')]
+
+# CNAME
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
