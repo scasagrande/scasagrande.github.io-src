@@ -49,8 +49,5 @@ STATIC_PATHS = ['images', 'extra/CNAME']
 ABOUT_ME = "Python lover, hardware builder, dabbler in DevOps tech, and tester of all the things"
 # AVATAR = "images/profile_picture.jpg"
 
-DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = [('CV', '/cv')]
-
 # CNAME
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}

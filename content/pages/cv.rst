@@ -3,6 +3,8 @@ Steven Casagrande
 
 :date: April 12, 2016
 :slug: cv
+:menulabel: CV
+:url: cv
 
 ..
 
