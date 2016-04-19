@@ -33,3 +33,62 @@ connection types (ethernet, gpib, serial, usb) without impacting their
 code. Since the API is consistent across similar instruments, a user
 can, for example, upgrade from their 1980's multimeter using GPIB to a
 modern Keysight 34461a using ethernet with only a single line change.
+
+----
+
+Secondary Contributor
+---------------------
+
+Qinfer
+~~~~~~
+
+.. image:: https://img.shields.io/badge/DOI-10.5281%2Fzenodo.45087-blue.svg?maxAge=2592000
+   :target: http://dx.doi.org/10.5281/zenodo.45087
+   :alt: DOI 10.5281/zenodo.45087
+
+.. image:: https://img.shields.io/travis/QInfer/python-qinfer.svg?maxAge=2592000
+    :target: https://travis-ci.org/QInfer/python-qinfer
+    :alt: Travis-CI build status
+
+.. image:: https://img.shields.io/coveralls/QInfer/python-qinfer/master.svg?maxAge=2592000
+    :target: https://coveralls.io/github/QInfer/python-qinfer?branch=master
+    :alt: Coveralls code coverage
+
+.. image:: https://img.shields.io/codeclimate/github/QInfer/python-qinfer.svg?maxAge=2592000
+   :target: https://codeclimate.com/github/QInfer/python-qinfer
+   :alt: Code Climate
+
+**Language**: Python
+
+**Source Code**: `github.com/Qinfer/python-Qinfer <https://www.github.com/Qinfer/python-Qinfer>`_
+
+**About**: QInfer is a library using Bayesian sequential Monte Carlo for quantum
+parameter estimation.
+
+**Contributions**:
+
+- Ported project from Python 2 -> 2&3 single code base support
+
+Pyglet_helper
+~~~~~~~~~~~~~
+
+.. image:: https://img.shields.io/travis/CatherineH/pyglet_helper/master.svg?maxAge=2592000
+   :target: https://travis-ci.org/CatherineH/pyglet_helper
+   :alt: Travis-CI build status
+
+.. image:: https://img.shields.io/coveralls/CatherineH/pyglet_helper/master.svg?maxAge=2592000
+   :target: https://coveralls.io/github/CatherineH/pyglet_helper?branch=master
+   :alt: Coveralls code coverage
+
+**Language**: Python
+
+**Source Code**: `github.com/CatherineH/pyglet_helper <https://www.github.com/CatherineH/pyglet_helper>`_
+
+**About**: The goal of this project is to make pyglet usable to people with no OpenGL experience by
+reproducing the functionality of VPython for drawing geometric primitives.
+
+**Contributions**:
+
+- Ported project from Python 2 -> 2&3 single code base support
+- Provided feedback on unit tests
+- Showed how to use ``mock.patch`` to test code making calls to ``opengl``
