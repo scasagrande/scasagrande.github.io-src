@@ -21,6 +21,8 @@ Instrument Kit
     :target: https://readthedocs.org/projects/instrumentkit/?badge=latest
     :alt: Documentation
 
+|
+
 **Language**: Python
 
 **Source Code**: `github.com/Galvant/InstrumentKit <https://www.github.com/Galvant/InstrumentKit>`_
@@ -58,6 +60,8 @@ Qinfer
    :target: https://codeclimate.com/github/QInfer/python-qinfer
    :alt: Code Climate
 
+|
+
 **Language**: Python
 
 **Source Code**: `github.com/Qinfer/python-Qinfer <https://www.github.com/Qinfer/python-Qinfer>`_
@@ -80,6 +84,8 @@ Pyglet_helper
    :target: https://coveralls.io/github/CatherineH/pyglet_helper?branch=master
    :alt: Coveralls code coverage
 
+|
+
 **Language**: Python
 
 **Source Code**: `github.com/CatherineH/pyglet_helper <https://www.github.com/CatherineH/pyglet_helper>`_
@@ -92,3 +98,24 @@ reproducing the functionality of VPython for drawing geometric primitives.
 - Ported project from Python 2 -> 2&3 single code base support
 - Provided feedback on unit tests
 - Showed how to use ``mock.patch`` to test code making calls to ``opengl``
+
+Functional Accessability Evaluator v2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Language**: Python
+
+**Technologies**: Django
+
+**Source Code**: `github.com/opena11y/fae2 <https://github.com/opena11y/fae2>`_
+
+**About**:
+
+- FAE analyzes a website based on the requirements of the W3C Web Content Accessibility Guidelines 2.0 Single A and AA Success Criteria.
+- Every rule used in FAE 2.0 references at primary WCAG 2.0 Success Criterion requirement it is based on.
+- The rules support not only accessibility, but also usable web design for people with disabilities.
+- The rules support accessible and usable design by enforcing the accessible coding practices and techniques of the Accessible Rich Internet Application (ARIA) 1.0 and W3C HTML5 specifications.
+
+**Contributions**:
+
+- Ported project from Python 2 -> 2&3 single code base support
+- Improved installation requirements documentation
