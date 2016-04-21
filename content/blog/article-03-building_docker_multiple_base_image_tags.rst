@@ -19,7 +19,7 @@ This would ensure that I was always using the latest node version every night, w
 
 A few weeks later as news of the container made its way around the devs, I was asked to provide a build of the tool that uses the latest LTS node release instead of the latest-latest release. I should be able to do that, no problem. On Docker Hub there is a node tag named ``argon``, which corresponds to the latest build of the current LTS branch (currently node 4.4.3). So my challenge was to provide two identical containers with only the node version changed between them.
 
-I first considered using the Docker ``--build-args`` flag with a corresponding ``ARG`` line in the Dockerfile. Typically this is used in the following way:
+I first considered using the Docker ``--build-arg`` flag with a corresponding ``ARG`` line in the Dockerfile. Typically this is used in the following way:
 
 .. code-block:: Dockerfile
 
@@ -33,7 +33,7 @@ And then built like so:
 
 .. code-block:: console
 
-    $ docker build --build-args="myvar=value" -t container-name .
+    $ docker build --build-arg myvar=value -t container-name .
 
 But of course, I wanted to use this build argument in the ``FROM`` line. So first I tried this:
 
