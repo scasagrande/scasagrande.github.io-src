@@ -60,7 +60,7 @@ And the scrubbed bash script that was run by Jenkins:
 .. code-block:: Bash
 
     #!/bin/bash
-    export tags="latest:argon"
+    TAGS="latest:argon"
 
     for tag in ${tags//:/ }; do
         sed 's/TAG/'"${tag}"'/' Dockerfile-template > Dockerfile
