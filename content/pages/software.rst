@@ -9,11 +9,11 @@ Software Projects
 Instrument Kit
 --------------
 
-.. image:: https://img.shields.io/travis/Galvant/InstrumentKit.svg?maxAge=2592000
+.. image:: https://img.shields.io/travis/Galvant/InstrumentKit.svg?maxAge=3600
     :target: https://travis-ci.org/Galvant/InstrumentKit
     :alt: Travis-CI build status
 
-.. image:: https://img.shields.io/coveralls/Galvant/InstrumentKit/dev.svg?maxAge=2592000
+.. image:: https://img.shields.io/coveralls/Galvant/InstrumentKit/dev.svg?maxAge=3600
     :target: https://coveralls.io/r/Galvant/InstrumentKit?branch=dev
     :alt: Coveralls code coverage
 
@@ -48,15 +48,15 @@ Qinfer
    :target: http://dx.doi.org/10.5281/zenodo.45087
    :alt: DOI 10.5281/zenodo.45087
 
-.. image:: https://img.shields.io/travis/QInfer/python-qinfer.svg?maxAge=2592000
+.. image:: https://img.shields.io/travis/QInfer/python-qinfer.svg?maxAge=86400
     :target: https://travis-ci.org/QInfer/python-qinfer
     :alt: Travis-CI build status
 
-.. image:: https://img.shields.io/coveralls/QInfer/python-qinfer/master.svg?maxAge=2592000
+.. image:: https://img.shields.io/coveralls/QInfer/python-qinfer/master.svg?maxAge=3600
     :target: https://coveralls.io/github/QInfer/python-qinfer?branch=master
     :alt: Coveralls code coverage
 
-.. image:: https://img.shields.io/codeclimate/github/QInfer/python-qinfer.svg?maxAge=2592000
+.. image:: https://img.shields.io/codeclimate/github/QInfer/python-qinfer.svg?maxAge=86400
    :target: https://codeclimate.com/github/QInfer/python-qinfer
    :alt: Code Climate
 
@@ -76,11 +76,11 @@ parameter estimation.
 Pyglet_helper
 ~~~~~~~~~~~~~
 
-.. image:: https://img.shields.io/travis/CatherineH/pyglet_helper/master.svg?maxAge=2592000
+.. image:: https://img.shields.io/travis/CatherineH/pyglet_helper/master.svg?maxAge=86400
    :target: https://travis-ci.org/CatherineH/pyglet_helper
    :alt: Travis-CI build status
 
-.. image:: https://img.shields.io/coveralls/CatherineH/pyglet_helper/master.svg?maxAge=2592000
+.. image:: https://img.shields.io/coveralls/CatherineH/pyglet_helper/master.svg?maxAge=3600
    :target: https://coveralls.io/github/CatherineH/pyglet_helper?branch=master
    :alt: Coveralls code coverage
 
