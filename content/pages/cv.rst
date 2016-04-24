@@ -5,6 +5,7 @@ Steven Casagrande
 :slug: cv
 :menulabel: CV
 :url: cv
+:sortorder: 1
 
 ..
 

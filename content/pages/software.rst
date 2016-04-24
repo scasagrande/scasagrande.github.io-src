@@ -4,7 +4,7 @@ Software Projects
 :slug: software
 :menulabel: Software
 :url: software
-
+:sortorder: 3
 
 Instrument Kit
 --------------
@@ -21,11 +21,20 @@ Instrument Kit
     :target: https://readthedocs.org/projects/instrumentkit/?badge=latest
     :alt: Documentation
 
+.. image:: https://img.shields.io/pypi/v/instrumentkit.svg?maxAge=86400
+    :target: https://pypi.python.org/pypi/instrumentkit
+    :alt: PyPI version
+
+.. image:: https://img.shields.io/pypi/pyversions/instrumentkit.svg?maxAge=2592000
+    :alt: Python versions
+
 |
 
 **Language**: Python
 
 **Source Code**: `github.com/Galvant/InstrumentKit <https://www.github.com/Galvant/InstrumentKit>`_
+
+**PyPI**: `pypi.python.org/pypi/instrumentkit <https://pypi.python.org/pypi/instrumentkit>`__
 
 InstrumentKit is an open source Python library designed to help the
 end-user get straight into communicating with their test and measurement equipment via a PC.

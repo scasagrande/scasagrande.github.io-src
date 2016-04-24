@@ -4,6 +4,7 @@ Hardware Projects
 :slug: hardware
 :menulabel: Hardware
 :url: hardware
+:sortorder: 2
 
 GPIBUSB Adpater
 ---------------
