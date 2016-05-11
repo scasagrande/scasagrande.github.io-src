@@ -69,6 +69,13 @@ Qinfer
    :target: https://codeclimate.com/github/QInfer/python-qinfer
    :alt: Code Climate
 
+.. image:: https://img.shields.io/pypi/v/QInfer.svg?maxAge=86400
+    :target: https://pypi.python.org/pypi/QInfer
+    :alt: PyPI version
+
+.. image:: https://img.shields.io/pypi/pyversions/QInfer.svg?maxAge=2592000
+    :alt: Python versions
+
 |
 
 **Language**: Python
@@ -81,6 +88,7 @@ parameter estimation.
 **Contributions**:
 
 - Ported project from Python 2 -> 2&3 single code base support
+- General Python feedback, as well as PyPI and Travis suggestions
 
 Pyglet_helper
 ~~~~~~~~~~~~~
