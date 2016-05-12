@@ -21,6 +21,9 @@ GPIBUSB Adpater
 
 **About**: This project was borne out of my frustration with proprietary GPIB to USB adapters. They typically require large driver downloads and very specific operating system and programming language combinations. Fet up with their high prices, I decided to create my own. The current version uses a Microchip PIC 18F4520 8-bit microcontroller for the main protocol conversion, an FTDI 230X for USB-to-Serial conversion, and the proper TI GPIB line driver ICs to interface the micro with the bus.
 
+**Videos**:
+`Video 1 <https://www.youtube.com/watch?v=D2a0hIxYlsY>`__
+
 antiAFK
 -------
 
@@ -33,6 +36,9 @@ antiAFK
 `Circuit Board <https://www.github.com/Galvant/antiafk-pcb>`__
 
 **About**: The antiAFK in simply a small USB-enabled dongle which acts like an HID keyboard. The main purpose and motivation behind this project was to have a small device which could be inserted into a computer's USB port to provide psudorandom keypresses to help prevent automatic logging out of online connected video games. These keypress events occur based on a stored period and variance, have a randomized press duration, and the key is chosen from a stored set (default is WASD and space). Settings are configurable through a virtual serial interface and are stored in the microcontroller EEPROM.
+
+**Videos**:
+`Video 1 <https://www.youtube.com/watch?v=YMG83dEu700>`__
 
 USB Wrapper
 -----------
@@ -52,3 +58,19 @@ The USB Wrapper also addresses the problem where legitimate USB chargers use the
 - Slider switches which allow you to tell your device what kind of charger is connected. Select from dedicated charger port, Sony, open circuit, and four different Apple chargers; 500mA, 1A, 2.1A, and 2.5A.
 - USB-B and USB-micro-B connectors on the power side
 - USB-A on the device side
+
+**Videos**:
+`Video 1 <https://www.youtube.com/watch?v=KMzj8KeqWx8>`__
+`Video 2 <https://www.youtube.com/watch?v=p6iHcQJdUy0>`__
+
+GCN-to-N64 Adapter
+------------------
+
+**Source code**:
+`Circuit Board <https://www.github.com/Galvant/gcn_to_n64-pcb>`__
+
+**About**: A simple PCB for connecting a Nintendo Gamecube controller into a Nintendo 64 console. The inspiration came from finding the source code to do the protocol conversion on Github, but no matching PCB.
+
+**Videos**:
+`Video 1 <https://www.youtube.com/watch?v=secM9QJF3xM>`__
+`Video 2 <https://www.youtube.com/watch?v=Re0rfYlDZiI>`__
