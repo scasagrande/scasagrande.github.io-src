@@ -75,7 +75,7 @@ Secondary Contributor
 Qinfer
 ~~~~~~
 
-.. image:: https://img.shields.io/badge/DOI-10.5281%2Fzenodo.45087-blue.svg?maxAge=2592000
+.. image:: https://img.shields.io/badge/DOI-10.5281%2Fzenodo.51273-blue.svg?maxAge=2592000
    :target: http://dx.doi.org/10.5281/zenodo.45087
    :alt: DOI 10.5281/zenodo.45087
 
