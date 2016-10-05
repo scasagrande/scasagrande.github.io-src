@@ -75,9 +75,9 @@ Secondary Contributor
 Qinfer
 ~~~~~~
 
-.. image:: https://img.shields.io/badge/DOI-10.5281%2Fzenodo.51273-blue.svg?maxAge=2592000
-   :target: http://dx.doi.org/10.5281/zenodo.45087
-   :alt: DOI 10.5281/zenodo.45087
+.. image:: https://img.shields.io/badge/DOI-10.5281%2Fzenodo.157007-blue.svg?maxAge=2592000
+   :target: http://dx.doi.org/10.5281/zenodo.157007
+   :alt: DOI 10.5281/zenodo.157007
 
 .. image:: https://img.shields.io/travis/QInfer/python-qinfer.svg?maxAge=86400
     :target: https://travis-ci.org/QInfer/python-qinfer
@@ -103,6 +103,8 @@ Qinfer
 **Language**: Python
 
 **Source Code**: `github.com/Qinfer/python-Qinfer <https://www.github.com/Qinfer/python-Qinfer>`__
+
+**arXiv Paper**: `arxiv.org/abs/1610.00336 <https://arxiv.org/abs/1610.00336>`__
 
 **About**: QInfer is a library using Bayesian sequential Monte Carlo for quantum
 parameter estimation.
