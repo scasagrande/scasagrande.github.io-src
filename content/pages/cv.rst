@@ -14,12 +14,20 @@ Steven Casagrande
 Skill Summary
 -------------
 
-**Technologies**: Python, C, SQL, Git, Docker, Vagrant, Travis, Jenkins, LaTeX
+**Technologies**: Python, Git, Docker, Vagrant, Travis, Jenkins, LaTeX
 
-**Hardware**: KiCad, LTSpice, PIC18F, Arduino, ARM
+**Hardware**: KiCad, Test and Measurement Equipment, Instrumentation Control
 
 Experience
 ----------
+
+Product Test Engineer - Thalmic Labs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Defined, developed, implemented, and maintained several complete manufacturing test solutions
+- Facilitated DFT reviews with design and production teams
+- Lead team wide conversations about test station software standardization
+- Participated in GR&R studies for several process steps
+- Helped train technicians and co-op students
 
 Test Developer - D2L Corporation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
