@@ -14,7 +14,7 @@ Instrument Kit
     :alt: Travis-CI build status
 
 .. image:: https://img.shields.io/coveralls/Galvant/InstrumentKit/dev.svg?maxAge=3600
-    :target: https://coveralls.io/r/Galvant/InstrumentKit?branch=dev
+    :target: https://coveralls.io/r/Galvant/InstrumentKit?branch=master
     :alt: Coveralls code coverage
 
 .. image:: https://readthedocs.org/projects/instrumentkit/badge/?version=latest
