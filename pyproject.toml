@@ -1,0 +1,19 @@
+[project]
+name = "website-personal"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Steven Casagrande", email = "stevencasagrande@gmail.com"},
+]
+dependencies = [
+    "pelican==4.9.1",
+    "markdown",
+    "ghp-import>=2.1.0",
+]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false

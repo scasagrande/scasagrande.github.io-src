@@ -1,24 +1,21 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
 AUTHOR = 'Steven Casagrande'
 SITENAME = 'Steven Casagrande'
-SITEURL = ''
+SITEURL = ""
 
-PATH = 'content'
+PATH = "content"
+ARTICLE_PATHS = ["blog"]
+ARTICLE_SAVE_AS = "articles/{slug}.html"
+ARTICLE_URL = "articles/{slug}.html"
+PAGE_URL = "{slug}"
+PAGE_SAVE_AS = "{slug}.html"
 
-THEME = 'theme'
+THEME = "theme/pelican-bootstrap3"
+JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
+PAGES_SORT_ATTRIBUTE = "sortorder"
 
-TIMEZONE = 'EST'
+TIMEZONE = "America/Toronto"
 
-DEFAULT_LANG = 'en'
-
-# URL Settings
-ARTICLE_URL = ('articles/{slug}/')
-ARTICLE_SAVE_AS = ('articles/{slug}/index.html')
-PAGE_URL = ('pages/{slug}/')
-PAGE_SAVE_AS = ('{slug}/index.html')
+DEFAULT_LANG = "en"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -51,3 +48,6 @@ ABOUT_ME = "Python lover, hardware builder, powerlifter, and tester of all the t
 
 # CNAME
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
+
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["i18n_subsites"]
