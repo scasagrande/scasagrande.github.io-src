@@ -9,13 +9,13 @@ Software Projects
 Instrument Kit
 --------------
 
-.. image:: https://img.shields.io/travis/Galvant/InstrumentKit.svg?maxAge=3600
-    :target: https://travis-ci.org/Galvant/InstrumentKit
-    :alt: Travis-CI build status
+.. image:: https://github.com/instrumentkit/InstrumentKit/workflows/Testing/badge.svg?branch=main
+    :target: https://github.com/instrumentkit/InstrumentKit
+    :alt: Github Actions build status
 
-.. image:: https://img.shields.io/coveralls/Galvant/InstrumentKit/dev.svg?maxAge=3600
-    :target: https://coveralls.io/r/Galvant/InstrumentKit?branch=master
-    :alt: Coveralls code coverage
+.. image:: https://codecov.io/gh/instrumentkit/InstrumentKit/branch/main/graph/badge.svg?token=Q2wcdW3t4A
+    :target: https://codecov.io/gh/instrumentkit/InstrumentKit
+    :alt: Codecov code coverage
 
 .. image:: https://readthedocs.org/projects/instrumentkit/badge/?version=latest
     :target: https://readthedocs.org/projects/instrumentkit/?badge=latest
