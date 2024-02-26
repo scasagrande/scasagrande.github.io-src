@@ -1,10 +1,50 @@
-Hardware Projects
-#################
+Projects
+########
 
-:slug: hardware
-:menulabel: Hardware
-:url: hardware
+:slug: projects
+:menulabel: Projects
+:url: projects
 :sortorder: 2
+
+Instrument Kit
+--------------
+
+.. image:: https://github.com/instrumentkit/InstrumentKit/workflows/Testing/badge.svg?branch=main
+    :target: https://github.com/instrumentkit/InstrumentKit
+    :alt: Github Actions build status
+
+.. image:: https://codecov.io/gh/instrumentkit/InstrumentKit/branch/main/graph/badge.svg?token=Q2wcdW3t4A
+    :target: https://codecov.io/gh/instrumentkit/InstrumentKit
+    :alt: Codecov code coverage
+
+.. image:: https://readthedocs.org/projects/instrumentkit/badge/?version=latest
+    :target: https://readthedocs.org/projects/instrumentkit/?badge=latest
+    :alt: Documentation
+
+.. image:: https://img.shields.io/pypi/v/instrumentkit.svg?maxAge=86400
+    :target: https://pypi.python.org/pypi/instrumentkit
+    :alt: PyPI version
+
+.. image:: https://img.shields.io/pypi/pyversions/instrumentkit.svg?maxAge=2592000
+    :alt: Python versions
+
+|
+
+**Language**: Python
+
+**Source Code**: `github.com/Galvant/InstrumentKit <https://www.github.com/Galvant/InstrumentKit>`__
+
+**PyPI**: `pypi.python.org/pypi/instrumentkit <https://pypi.python.org/pypi/instrumentkit>`__
+
+InstrumentKit is an open source Python library designed to help the
+end-user get straight into communicating with their test and measurement equipment via a PC.
+InstrumentKit aims to accomplish this by providing a connection- and
+vendor-agnostic API. Users can freely swap between a variety of
+connection types (ethernet, gpib, serial, usb) without impacting their
+code. Since the API is consistent across similar instruments, a user
+can, for example, upgrade from their 1980's multimeter using GPIB to a
+modern Keysight 34461a using ethernet with only a single line change.
+
 
 GPIBUSB Adpater
 ---------------
