@@ -10,14 +10,14 @@ Steven Casagrande
 
 ..
 
-    Lead systems developer at IBM Quantum
+    Lead build systems developer at IBM Quantum
 
 Skill Summary
 -------------
 
-**Technologies**: Python, Git, Docker, Vagrant, Travis, Jenkins, LaTeX
+**Technologies**: Bazel, Python, Docker, Continuous Integration
 
-**Hardware**: KiCad, Test and Measurement Equipment, Instrumentation Control
+**Skills**: Building, testing, debugging, contradiction analysis
 
 Experience
 ----------
