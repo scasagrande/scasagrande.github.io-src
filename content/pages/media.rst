@@ -4,7 +4,8 @@ Media
 :slug: media
 :menulabel: Media
 :url: media
-:sortorder: 4
+:status: hidden
+:sortorder: 3
 
 May 9, 2014 - Hackaday - `GPIB to USB, With a Python API <http://hackaday.com/2014/05/09/gpib-to-usb-with-a-python-api/>`__
 
