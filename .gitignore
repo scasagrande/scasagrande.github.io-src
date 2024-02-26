@@ -51,3 +51,6 @@ nosetests.xml
 
 #pycharm generated
 .idea/
+
+# pdm
+.pdm-python
