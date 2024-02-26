@@ -26,14 +26,13 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ('InstrumentKit', 'https://www.github.com/Galvant/InstrumentKit'),
+    ('InstrumentKit', 'https://www.github.com/instrumentkit/InstrumentKit'),
     ('Galvant Industries', 'http://galvant.ca/'),
 )
 
 # Social widget
 SOCIAL = (
-    ('github', 'http://github.com/scasagrande'),
-    ('twitter', 'https://twitter.com/stevecasagrande'),
+    ('github', 'https://github.com/scasagrande'),
     ('linkedin', 'https://www.linkedin.com/in/steven-casagrande-633ba533'),
 )
 
@@ -43,7 +42,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 STATIC_PATHS = ['images', 'extra/CNAME']
-ABOUT_ME = "Python lover, hardware builder, powerlifter, and tester of all the things"
+ABOUT_ME = "Lead build systems developer for IBM Quantum"
 # AVATAR = "images/profile_picture.jpg"
 
 # CNAME

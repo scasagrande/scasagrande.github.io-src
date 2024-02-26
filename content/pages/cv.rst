@@ -2,6 +2,7 @@ Steven Casagrande
 #################
 
 :date: Feb 24, 2019
+:modified: Feb 25, 2024
 :slug: cv
 :menulabel: CV
 :url: cv
@@ -9,7 +10,7 @@ Steven Casagrande
 
 ..
 
-    Python lover, hardware builder, powerlifter, and tester of all the things
+    Lead systems developer at IBM Quantum
 
 Skill Summary
 -------------
@@ -20,6 +21,19 @@ Skill Summary
 
 Experience
 ----------
+
+Lead Test Developer - SSIMWAVE (now part of IMAX)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+March 2019 - Oct 2020
+
+- Took ownership of the company direction with respect to test automation.
+- Increased automated backend regression coverage from less than 1\% to approximately 75\%, while simultaneously vastly increasing test permutations and individual test assertions.
+- Created tools for internal use to decrease manual test setup time. This provided a 1 click, reproducible, and reuseable way to setup and share test configurations throughout the organization.
+- Reduced release cycle regression test time from several weeks, utilizing multiple full time staff and 4 co-op students, down to approximately two weeks with reduced full time staff focus and only 1 co-op student.
+- Acted as the first responder for post-merge issues; quickly debugging and sorting failures, and contacting those involved.
+- Assisted developers company-wide with Python related questions.
+- Mentored and trained co-op students.
+- Key techs: Python, unittest, Jenkins, ffmpeg, Bazel, Py36:Typing
 
 Product Test Engineer - North Inc (formerly Thalmic Labs)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
