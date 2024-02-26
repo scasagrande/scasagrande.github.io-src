@@ -8,7 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-GITHUB_PAGES_BRANCH=main
+GITHUB_PAGES_BRANCH=gh-pages
 
 
 DEBUG ?= 0
@@ -73,7 +73,7 @@ publish:
 
 github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)"
-	git push origin $(GITHUB_PAGES_BRANCH)
+	git push -f git@github.com:scasagrande/scasagrande.github.io.git $(GITHUB_PAGES_BRANCH):master
 
 
 .PHONY: html help clean regenerate serve serve-global devserver devserver-global publish github
