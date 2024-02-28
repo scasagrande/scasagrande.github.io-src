@@ -5,7 +5,7 @@ My Personal Security Plan
 :author: Steven Casagrande
 :tags: security, privacy, android, signal, linux
 
-Back on June 5, 2013 I remember pacing back and forth while freaking out all day. I spent the day talking to my good friend `Chris Granade <http://www.cgranade.com/>`__, who was in a similar state of dismay. At the time we were both in graduate school, him doing his PhD and myself working on my MSc, both in physics. We poured over all the news of the day, astonished at what we were reading. It honestly felt like some sort of nightmare, where all of the bad plots to Hollywood movies were coming real.
+Back on June 5, 2013 I remember pacing back and forth while freaking out all day. I spent the day talking to my good friend `Cassandra Granade <http://www.cgranade.com/>`__, who was in a similar state of dismay. At the time we were both in graduate school, she doing her PhD and myself working on my MSc, both in physics. We poured over all the news of the day, astonished at what we were reading. It honestly felt like some sort of nightmare, where all of the bad plots to Hollywood movies were coming real.
 
 Of course, this was the day that The Guardian, thanks to the courageous work of Edward Snowden, let the world know that the NSA was operating a variety of programs with the intent of mass surveillance of anyone and everyone. We learned of programs like PRISM and XKeyscore, of the secret courts compelling tech companies to do their bidding, and the widespread infiltration of every level of our modern networked lives.
 
